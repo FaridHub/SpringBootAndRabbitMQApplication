@@ -1,0 +1,9 @@
+com\trta\notification\configuration\RabbitConfiguration.class
+com\trta\notification\constants\NotificationConstants.class
+com\trta\notification\consumer\ActivitiWorkflowConsumer.class
+com\trta\notification\configuration\RegisterConsumersConfig.class
+com\trta\notification\application\NotificationServiceApplication.class
+com\trta\notification\controller\NotificationServiceController.class
+com\trta\notification\configuration\NotificationConfiguration.class
+com\trta\notification\configuration\RabbitConfiguration$1.class
+com\trta\notification\consumer\EcpEtlServiceConsumer.class
